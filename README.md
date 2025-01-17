@@ -29,7 +29,7 @@ git clone https://github.com/Anduamlakalehegne/Uber-NextJS
 
 2. Install dependencies:
 ```bash
-cd uber-clone
+cd Uber-NextJS
 npm install
 ```
 
